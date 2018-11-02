@@ -10,4 +10,4 @@ As we know that technology goes its own path we follow, go with us as well.
 <li>Email: ethermoney.info@gmail.com
 <li>Github: https://github.com/EtherMoney
 <li>Twitter: https://twitter.com/MoneyEther
-<li>https://neironix.io/it/cryptocurrency/ethermoney/exchanges
+<li>Neironix: https://neironix.io/it/cryptocurrency/ethermoney/exchanges
