@@ -11,7 +11,7 @@ Ether Money is a young token that has an excellent team of artificial intelligen
 <li>Neironix: https://neironix.io/it/cryptocurrency/ethermoney/exchanges
 <li>Reddit: https://www.reddit.com/user/EtherMoney/comments/9z75f7/ether_money_project/
 <li>Telegram group: https://t.me/ethermoney_EN
-<li>Telegram channel: https://t.me/ether_money
+<li>Telegram channel: https://t.me/EtherMoneyOfficially
 <li>Etherscan: https://etherscan.io/token/0x28926c46bc5c0aeab39c72f7c1201bfb8056d509
 <li>Bitcointalk: https://bitcointalk.org/index.php?action=profile;u=2479447;sa=showPosts
 <li>Exchange: https://token.store/trade/ETM
