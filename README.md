@@ -13,7 +13,7 @@ Ether Money is a young token that has an excellent team of artificial intelligen
 <li>Telegram group: https://t.me/ethermoney_EN
 <li>Telegram channel: https://t.me/EtherMoneyOfficially
 <li>Etherscan: https://etherscan.io/token/0x28926c46bc5c0aeab39c72f7c1201bfb8056d509
-<li>Bitcointalk: https://bitcointalk.org/index.php?action=profile;u=2479447;sa=showPosts
+<li>Bitcointalk: https://bitcointalk.org/index.php?action=profile;u=2481770;sa=showPosts
 <li>Exchange: https://token.store/trade/ETM
 <li>Ethplorer: https://ethplorer.io/address/0x28926c46bc5c0aeab39c72f7c1201bfb8056d509
 
